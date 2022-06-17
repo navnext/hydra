@@ -11,7 +11,7 @@ replace (
 	github.com/oleiade/reflections => github.com/oleiade/reflections v1.0.1
 )
 
-replace github.com/ory/fosite => github.com/ory/fosite v0.42.3-0.20220513181618-5f156bd07d5d
+replace github.com/ory/fosite => github.com/ory/fosite v0.42.3-0.20220617170837-af82103382ab
 
 replace github.com/gobuffalo/pop/v6 => github.com/gobuffalo/pop/v6 v6.0.4-0.20220524160009-195240e4a669
 
@@ -78,6 +78,7 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/subosito/gotenv v1.3.0 // indirect
 	github.com/tidwall/gjson v1.14.0
+	github.com/tidwall/sjson v1.2.4
 	github.com/toqueteos/webbrowser v1.2.0
 	github.com/urfave/negroni v1.0.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.32.0 // indirect
